@@ -9,7 +9,7 @@ function setup() {
  weight=random(400,1500);
  wall=createSprite(1500,200,60,height/2);
  car.velocityX = speed;
- Deformation= 0.5 x weight x speed x speed/22500
+ deformation= 0.5 x weight x speed x speed/22500
  
 }
 
